@@ -1,1 +1,6 @@
-[AbdulManan_FramerPortfolio_with_README.zip](https://github.com/user-attachments/files/23493257/AbdulManan_FramerPortfolio_with_README.zip)
+[style.css](https://github.com/user-attachments/files/23493452/style.css)
+[script.js](https://github.com/user-attachments/files/23493451/script.js)
+[README.md](https://github.com/user-attachments/files/23493450/README.md)
+[login.html](https://github.com/user-attachments/files/23493449/login.html)
+[index.html](https://github.com/user-attachments/files/23493448/index.html)
+[brands.html](https://github.com/user-attachments/files/23493446/brands.html)
